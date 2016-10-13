@@ -7,7 +7,7 @@ android {
     buildToolsVersion "${project.ext.buildtools}"
 
     defaultConfig {
-        applicationId "com.firebase.uidemo"
+        applicationId "com.edicon.firebase.devs.fireui"
         minSdkVersion 16
         targetSdkVersion project.ext.targetSdk
         versionCode 1
